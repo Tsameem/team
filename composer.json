@@ -1,6 +1,6 @@
 {
     "name": "tsameem/team",
-    "description": "a package for creating admin roles",
+    "description": "a package for creating admin's auth with roles",
     "license": "MIT",
     "authors": [
         {
