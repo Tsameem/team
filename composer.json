@@ -1,0 +1,18 @@
+{
+    "name": "tsameem/team",
+    "description": "a package for creating admin roles",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tsameem",
+            "email": "info@tsameem.com",
+            "homepage": "http://tsameem.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Tsameem\\Team\\": "src"
+        }
+    }
+}
